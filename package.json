@@ -1,7 +1,7 @@
 {
   "name": "Duckr",
   "version": "1.0.0",
-  "description": "Redux-Immutable",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -9,17 +9,9 @@
     "lint": "eslint app/.; exit 0",
     "fix": "eslint --fix app/.; exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ReactjsProgram/Redux-Immutable.git"
-  },
   "keywords": [],
   "author": "David Lau",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ReactjsProgram/Redux-Immutable/issues"
-  },
-  "homepage": "https://github.com/ReactjsProgram/Redux-Immutable#readme",
   "dependencies": {
     "firebase": "^3.2.0",
     "immutable": "^3.8.2",

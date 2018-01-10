@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="http://www.reactjsprogram.com/images/reactjsprogram-500.png" width="250" align="right">
 
 Redux + Immutable Video Project
@@ -7,3 +8,6 @@ Redux + Immutable Video Project
 
 ## Notes
 Every video is coincided with a branch. If you want to compare your code with mine or you just want to play around with the code, check out the different branches on this repository.
+=======
+# Duckr
+>>>>>>> 8904e27ed6d5cbbc810f0cbaca7c9ca3ca4a128c
